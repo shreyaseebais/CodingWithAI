@@ -30,7 +30,7 @@ Practical coding skills for working with AI as a developer
 
 **[⬆ Back to Top](#table-of-contents)**
 
-###  🧠 What is Prompt Engineering?
+###  #1 🧠 What is Prompt Engineering?
 
 Prompt Engineering is the practice of designing and refining prompts (instructions given to AI) to achieve the desired outcome effectively. It isn’t just about asking a question — it’s about communicating your intent in a structured way that the AI can understand.
 
@@ -47,7 +47,7 @@ Computational reasoning 🧮
 
 **[⬆ Back to Top](#table-of-contents)** 
 
-### PROMPTS
+### #2 PROMPTS
 
 #### Cross-Platform App Development
 I am working on a cross-platform app development project that needs to run on [list_of_platforms]. The project involves [list_of_features] and needs to be completed within [project_duration]. Can you recommend the most appropriate programming language(s) and app development framework(s) that would be best suited for this project, along with any necessary libraries or tools? Additionally, please provide any relevant examples or documentation to help guide us through the development process.
