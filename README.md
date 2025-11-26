@@ -6,8 +6,8 @@ Practical coding skills for working with AI as a developer
 | No. | Questions |
 | --- | --------- |
 | 1 | [ What is Prompt Engineering ](#1-what-is-prompt-engineering) |
-| 2 | [](#) |
-| 3 | [](#) |
+| 2 | [ PROMPTS ](#) |
+| 3 | [ Tokenizer ](#) |
 | 4 | [](#) |
 | 5 | [](#) |
 | 6 | [](#) |
@@ -279,6 +279,27 @@ Can you explain the difference between [static_or_dynamic] typing and [static_or
 #### XML and JSON Parsing 
 I am currently working on a software development project that requires parsing both XML and JSON files. The files contain data on [data_type] and I need to extract specific information such as [specific_info]. 
 Can you provide suggestions on the best tools and libraries to use for parsing these files, as well as any potential errors or issues that may arise during the process? Additionally, could you provide sample code or pseudo-code to demonstrate how to correctly parse and extract the necessary information from these files?
+
+
+### Tokenizer
+go to /tokenizer
+post something, all gpt versions will show you the tokens made.
+
+
+### AI Hallucinations
+AI hallucination refers to situations where an AI system (like ChatGPT or image generators) produces output that sounds confident but is factually incorrect, fabricated, or not grounded in its training data.
+
+How to Reduce Hallucinations
+Provide clear, specific prompts
+Ask for sources or reasoning
+Enable web-based retrieval tools	
+Fact-check outputs	
+Indicate uncertainty allowance ("If unsure, say so")
+
+Example prompt:
+
+“If you are unsure, do not guess. Only answer using verified facts.”
+
 
 
 
